@@ -1,6 +1,6 @@
 # William Setstatespear
 
-This is a sample project used for education of React Router.
+This is a sample project used for education of React Router. It is a good example of how to use routes. 
 
 The code is organised into different branches which have progressively more complexity.
 
